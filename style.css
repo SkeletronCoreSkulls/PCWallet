@@ -57,6 +57,7 @@ body {
   line-height: inherit;
   /* 2 */
   background-image: url('bg.png');
+  background-repeat: no-repeat;
 }
 
 /*
